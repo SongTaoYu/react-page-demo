@@ -1,6 +1,6 @@
 {
-  "homepage": "https://songtaoyu.github.io/react-page-demo/",
   "name": "react-page-demo",
+  "homepage": "https://songtaoyu.github.io/react-page-demo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
